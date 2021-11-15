@@ -1,29 +1,6 @@
 ### Hi there 👋
-## <i class="fas fa-flag"></i> 个人信息 
-<!-- ## <i class="fa fa-id-card-o"></i> 个人信息  -->
 > 如果追忆会荡起涟漪，那么今天的秋红落叶和晴空万里都归你
-
-- 姓名：夏德鑫
-- 年龄：97年的
-- 身高：穿鞋188😄
-- 性别：纯爷们儿
-- 邮箱：aeneag@163.com
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**夏德鑫**，目前大连理工大学电子信息硕士在读，本科毕业于山东建筑大学计算机科学与技术专业，兴趣为嵌入式方向，BootLoader，linux内核，驱动等。近期主要研究为边缘计算、移动计算，关注于计算卸载、深度学习等问题。
-
-
-
-## <i class="fas fa-user-graduate"></i> 教育背景
-
-
-
-* **大连理工大学-软件学院-电子信息**  <a style="float:right; color: #845ec2; width:auto;">2020/9—2023/6</a>
-
-* **山东建筑大学-计算机科学与技术**  <a style="float:right; color: #845ec2; width:auto;">2015/9—2019/6</a>
-<!-- <p align="right">2020/9—2023/6</p> -->
-
 ##  <i class="fa fa-star"></i> 个人技能
-
 #### 编程语言
 * **C** 最先接触的语言，也是用的最多的一门语言，同样也是目前最擅长的语言
 
