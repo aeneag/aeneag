@@ -48,14 +48,10 @@
 
 ## 联系我
 
-<center><div style="text-algin:center;margin-top:10px;">
-<a style=" display: block;color:#845ec2">公众号</a>
-  
+公众号
+
 <img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg" alt="个人公众号">
-</div>
-<div >
-  
-<a style=" display: block;color:#845ec2">个人微信</a>
-  
+
+微信
+
 <img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/WechatIMG91-dc5e5be8.jpeg" alt="个人微信">
-  </div></center>
