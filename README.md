@@ -1,4 +1,4 @@
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+# Self-introduction
 ##  <i class="fa fa-star"></i> Personal skills
 
 #### programming language
@@ -45,6 +45,7 @@ At present, I mainly study edge computing, and also like to write technical arti
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[linux series articles<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2068779356419571716#wechat_redirect)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Playing with Python series articles<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2115067707141177347#wechat_redirect)
+
 # 中文
 > 如果追忆会荡起涟漪，那么今天的秋红落叶和晴空万里都归你
 ##  <i class="fa fa-star"></i> 个人技能
