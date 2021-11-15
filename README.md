@@ -50,7 +50,7 @@ At present, I mainly study edge computing, and also like to write technical arti
 
 Wechat Official Accounts
 
-<img  align="middle" style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg" alt="个人公众号">
+<img   style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg" alt="个人公众号">
 
 Wechat
 
