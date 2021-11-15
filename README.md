@@ -13,12 +13,6 @@ Personal blog [https://aeneag.xyz](https://aeneag.xyz)
 * **java**,a language that I want to put down and touch for a long time. I have done Android and Web and won awards. I have not touched it for a long time
 * **python** Self-taught language, video crawling, script writing (such as automatic website check-in), currently mainly studying deep arning but not accustomed python grammar.
 
-#### Common system
-* Windows is used the most, an essential system for embedded IDE
-
-* **CentOS**  is the system used by the server, and it is also the most familiar with the Linux series. For example, this site is this system and I hate Ubuntu.
-* MacOS  is currently the main force of daily scientific research
-
 ## <i class="fas fa-award"></i> Project experience
 ### Hardware aspect
 * Familiar with single-chip microcomputer (stm32), understand the use of single-chip microcomputer (currently I have not touched 51, stm32 for a long time), be able to complete small projects independently, and be familiar with UART, I2C, SPI and other interfaces.
