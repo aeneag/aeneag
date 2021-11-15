@@ -46,6 +46,15 @@ At present, I mainly study edge computing, and also like to write technical arti
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Playing with Python series articles<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2115067707141177347#wechat_redirect)
 
+## Contact me
+
+Wechat Official Accounts
+
+<img  align="middle" style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg" alt="个人公众号">
+
+Wechat
+
+<img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/WechatIMG91-dc5e5be8.jpeg" alt="个人微信">
 
 
 <!--
