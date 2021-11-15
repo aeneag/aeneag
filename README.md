@@ -1,4 +1,8 @@
 # Self-introduction
+Resume page [https://dxinxia.icu](https://dxinxia.icu)
+
+Personal blog [https://aeneag.xyz](https://aeneag.xyz)
+
 ##  <i class="fa fa-star"></i> Personal skills
 
 #### programming language
