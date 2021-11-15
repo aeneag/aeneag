@@ -46,10 +46,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[戏耍Python系列文章<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2115067707141177347#wechat_redirect)
 
-<div style="text-algin:center;margin-top:10px;">
-<a style=" display: block;color:#845ec2">WeChat Official Accounts</a>
+## 联系我
+
+<center><div style="text-algin:center;margin-top:10px;">
+<a style=" display: block;color:#845ec2">公众号</a>
+  
 <img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg" alt="个人公众号">
 </div>
 <div >
-<a style=" display: block;color:#845ec2">Personal WeChat</a>
+  
+<a style=" display: block;color:#845ec2">个人微信</a>
+  
 <img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/WechatIMG91-dc5e5be8.jpeg" alt="个人微信">
+  </div></center>
