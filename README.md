@@ -1,5 +1,5 @@
 # Self-introduction
-Resume page [https://dxinxia.icu](https://dxinxia.icu)
+Resume page [https://dxinxia.top](https://dxinxia.top)
 
 Personal blog [https://aeneag.xyz](https://aeneag.xyz)
 
